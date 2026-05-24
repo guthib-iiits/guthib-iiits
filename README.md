@@ -7,6 +7,8 @@
 - Audio Engineering is amazing.
 
 <3 Electronics and Cinema
+The username is based off a meme [guthib.com - you spelled it wrong]
+But when things started getting serious I realised I could'nt change it because I forgot the password for my old account.
 
 <!--
 **guthib-iiits/guthib-iiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
