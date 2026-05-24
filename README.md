@@ -11,6 +11,7 @@
 The username is based off a meme [guthib.com - you spelled it wrong]
 But when things started getting serious I realised I could'nt change it because I forgot the password for my old account.
 
+I do not have a lot of projects as I am an ECE guy and like to store stuff locally. I stoppped trusting Microsoft.
 <!--
 **guthib-iiits/guthib-iiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
