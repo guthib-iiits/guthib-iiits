@@ -1,5 +1,5 @@
 # Sripathy Siddartha. ECE student at IIIT Sri City.
-- Building a VGA to USB-C active display dongle: STM32G0, FUSB302, USB-PD Alt Mode negotiation, 4-layer Altium PCB.
+- PCB Designer
 - Working on CNTFET-based DRAM for ternary logic systems, simulated in Synopsys HSPICE.
 - Built a 24-bit/44.1 kHz Bluetooth A2DP DAC for a PA speaker system with PID-controlled karaoke ducking.
 - Founded UDBHAV, India's first Inter-IIIT Hackathon across 21 IIITs.
